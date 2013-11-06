@@ -24,4 +24,4 @@
 # WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #
 
-including '3ofcoins::apt_repository'
+include_recipe '3ofcoins::apt_repository'
